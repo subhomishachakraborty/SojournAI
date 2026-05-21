@@ -1,2 +1,2 @@
 # SojournAI
-A multi-agent orchestration framework built with CrewAI and LangChain to parse real-time flight matrices and optimize travel routing.
+A stateful multi-agent architecture built with LangGraph and LangChain to execute real-time flight data matrix harvesting and deterministic travel budget optimization.
